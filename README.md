@@ -2,7 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fankekeke&label=Profile%20views&color=0e75b6&style=flat" alt="fankekeke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankekekke" alt="fankekekke" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fankekeke" alt="fankekekke" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fankekeke&show_icons=true&locale=en&layout=compact" alt="fankekeke" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fankekeke&show_icons=true&locale=en" alt="fankekeke" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fankekeke&" alt="fankekeke" /></p>
 
 <!--
 **Fankekeke/Fankekeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
